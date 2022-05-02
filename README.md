@@ -1,4 +1,4 @@
-# QNT-450--Final-Project
+# QNT450--Final Project
 This is the code for my QNT 450 Final Project... the goal was to make a model better at predicting results of European football matches with more accuracy 
 than traditional betting websites
 
